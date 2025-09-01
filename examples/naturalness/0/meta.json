@@ -1,0 +1,13 @@
+{
+  "file": "LJ017-0066",
+  "text": "Yet he was silent when specifically pressed to confess that he had killed his wife and his brother.",
+  "transcription_expl": "j˘ˈɛt hˈi˘ wˈɑ˘z sˈaɪləːn˘tˑ w˘ˈɛ˘n s˘p˘ə˘sˈɪfɪkli˘ pːrˈɛˑstː t˘ˈu kənfˑˈɛːsː ðˈæ˘t hˈi hˈæ˘d kˈɪld hˈɪz wˈaɪfˑ ən˘d hˈɪˑz bˑrˈʌˑðˑər. ",
+  "transcription_impl": "jˈɛt hˈi wˈɑz sˈaɪlənt wˈɛn spəsˈɪfɪkli prˈɛst tˈu kənfˈɛs ðˈæt hˈi hˈæd kˈɪld hˈɪz wˈaɪf ənd hˈɪz brˈʌðər. ",
+  "score_avg_expl": 4.166666666666667,
+  "score_count_expl": 12,
+  "score_avg_impl": 3.0833333333333335,
+  "score_count_impl": 12,
+  "score_avg_gt": 4.333333333333333,
+  "score_count_gt": 12,
+  "diff": 1.0833333333333335
+}

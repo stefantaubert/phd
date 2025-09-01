@@ -1,0 +1,13 @@
+{
+  "file": "LJ020-0006",
+  "text": "Three potatoes of fair size, peeled and boiled mealy.",
+  "transcription_expl": "θ˘rˈi pətˈeɪt˘oʊːz ˈʌv˘ fˈɛrˑ sˑˈaɪːzˑ, pˈiˑlːdˑ əːndˑ b˘ˈɔɪːld mˑˈiliˑ. ",
+  "transcription_impl": "θrˈi pətˈeɪtoʊz ˈʌv fˈɛr sˈaɪz, pˈild ənd bˈɔɪld mˈili. ",
+  "score_avg_expl": 2.8333333333333335,
+  "score_count_expl": 24,
+  "score_avg_impl": 4.0,
+  "score_count_impl": 12,
+  "score_avg_gt": 4.25,
+  "score_count_gt": 12,
+  "diff": -1.1666666666666665
+}

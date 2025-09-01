@@ -1,0 +1,13 @@
+{
+  "file": "LJ016-0431",
+  "text": "One was vexed to think that his victims had a finer funeral than he would have.",
+  "transcription_expl": "wˈʌˑnˑ w˘ˈɑ˘z vˈɛːk˘s˘tː t˘ˈu θˈɪːŋ˘k ðˈæ˘t˘ hˈɪz vˈɪkt˘əmz hˈæd ə fˑˈaɪnər fːj˘ˈun˘ərəˑl ðːˈæn hˑˈi wˑˈʊdˑ hˈæːvˑ. ",
+  "transcription_impl": "wˈʌn wˈɑz vˈɛkst tˈu θˈɪŋk ðˈæt hˈɪz vˈɪktəmz hˈæd ə fˈaɪnər fjˈunərəl ðˈæn hˈi wˈʊd hˈæv. ",
+  "score_avg_expl": 3.1666666666666665,
+  "score_count_expl": 12,
+  "score_avg_impl": 4.083333333333333,
+  "score_count_impl": 12,
+  "score_avg_gt": 4.291666666666667,
+  "score_count_gt": 24,
+  "diff": -0.9166666666666665
+}

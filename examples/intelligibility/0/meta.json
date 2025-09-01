@@ -1,0 +1,13 @@
+{
+  "file": "LJ011-0275",
+  "text": "There he was seated on some sort of wooden bench and securely fastened.",
+  "transcription_expl": "ðːˈɛrː hˑˈi˘ wˈɑ˘z˘ sˈitɪd ˈɑn sˈʌm sˈɔrt˘ ˈʌvː wˑˈʊdənˑ bˑˈɛˑntʃː ən˘d sɪ˘kjˈʊrli fːˈæˑsənːdː. ",
+  "transcription_impl": "ðˈɛr hˈi wˈɑz sˈitɪd ˈɑn sˈʌm sˈɔrt ˈʌv wˈʊdən bˈɛntʃ ənd sɪkjˈʊrli fˈæsənd. ",
+  "score_avg_expl": 4.833333333333333,
+  "score_count_expl": 12,
+  "score_avg_impl": 4.083333333333333,
+  "score_count_impl": 12,
+  "score_avg_gt": 4.75,
+  "score_count_gt": 12,
+  "diff": 0.75
+}

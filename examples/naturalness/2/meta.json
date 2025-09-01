@@ -1,0 +1,13 @@
+{
+  "file": "LJ009-0106",
+  "text": "The keeper tries to appear unmoved, but his eye wanders anxiously over the combustible assembly.",
+  "transcription_expl": "ð˘ə kˑˈipər tˑrˈaɪˑz tˈu əpˑˈɪr əːnːm˘ˈuːvːdː, bˈʌt hˈɪz ˈaɪː wːˈɑn˘dərz˘ ˈæːŋ˘k˘ʃ˘əsl˘i ˈoʊ˘vər˘ ðə kəmˑp˘bˈɛ˘st˘ə˘bə˘lˑ əsˈɛmbliˑ. ",
+  "transcription_impl": "ðə kˈipər trˈaɪz tˈu əpˈɪr ənmˈuvd, bˈʌt hˈɪz ˈaɪ wˈɑndərz ˈæŋkʃəsli ˈoʊvər ðə kəmpbˈɛstəbəl əsˈɛmbli. ",
+  "score_avg_expl": 3.8333333333333335,
+  "score_count_expl": 12,
+  "score_avg_impl": 2.8333333333333335,
+  "score_count_impl": 12,
+  "score_avg_gt": 4.391304347826087,
+  "score_count_gt": 23,
+  "diff": 1.0
+}

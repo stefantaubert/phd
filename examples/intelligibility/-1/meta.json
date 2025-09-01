@@ -1,0 +1,13 @@
+{
+  "file": "LJ005-0163",
+  "text": "One great impediment to wide amelioration was that a vast number of small jails lay out of reach of the law.",
+  "transcription_expl": "wˈʌnː ɡrˈeɪt ˌɪmpˈɛdə˘məˑnt˘ tˈu wːˈaɪˑd əmˌiljərˈeɪʃə˘nː wˈɑ˘z ðˈæt˘ ə vˑˈæːs˘t nˈʌmbər ˈʌ˘v smˈɔl dʒˈeɪˑlz lˈeɪː ˈaʊ˘t ˈʌvː rˈitʃ ˈʌv ðə lˑˈɔː. ",
+  "transcription_impl": "wˈʌn ɡrˈeɪt ˌɪmpˈɛdəmənt tˈu wˈaɪd əmˌiljərˈeɪʃən wˈɑz ðˈæt ə vˈæst nˈʌmbər ˈʌv smˈɔl dʒˈeɪlz lˈeɪ ˈaʊt ˈʌv rˈitʃ ˈʌv ðə lˈɔ. ",
+  "score_avg_expl": 3.9166666666666665,
+  "score_count_expl": 12,
+  "score_avg_impl": 4.416666666666667,
+  "score_count_impl": 12,
+  "score_avg_gt": 4.5,
+  "score_count_gt": 12,
+  "diff": -0.5000000000000004
+}

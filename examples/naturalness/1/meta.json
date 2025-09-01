@@ -1,0 +1,13 @@
+{
+  "file": "LJ034-0127",
+  "text": "Brennan testified that they were standing, which is their apparent position in the photograph.",
+  "transcription_expl": "b˘rˈɛnəˑn tˈɛst˘ə˘fˌaɪːdː ðːˈæ˘t ðˈeɪ wˑˈʌr˘ stˈæˑndɪˑŋ, wˈɪtʃ˘ ˈɪˑz ðˈɛr əpˈɛrən˘t p˘əzˈɪˑʃənː ɪn ðə fˈoʊt˘əɡrˌæˑf. ",
+  "transcription_impl": "brˈɛnən tˈɛstəfˌaɪd ðˈæt ðˈeɪ wˈʌr stˈændɪŋ, wˈɪtʃ ˈɪz ðˈɛr əpˈɛrənt pəzˈɪʃən ɪn ðə fˈoʊtəɡrˌæf. ",
+  "score_avg_expl": 4.166666666666667,
+  "score_count_expl": 12,
+  "score_avg_impl": 3.1666666666666665,
+  "score_count_impl": 12,
+  "score_avg_gt": 3.6666666666666665,
+  "score_count_gt": 12,
+  "diff": 1.0000000000000004
+}

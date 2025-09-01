@@ -1,0 +1,13 @@
+{
+  "file": "LJ038-0186",
+  "text": "You will find the mailbox in the post office which is located four blocks from the drugstore on that street.",
+  "transcription_expl": "jˈu wˈɪ˘l fˈaɪnd ðə mˈeɪ˘lbˌɑːksː ɪˑn ðə˘ pˈoʊst˘ ˈɔfɪs wˈɪtʃ˘ ˈɪ˘z lˈoʊkˑˌeɪt˘əd fˈɔr bˑlˈɑks˘ f˘r˘ˈʌ˘m ð˘ə drˈʌɡstˌɔr ˈɑˑnˑ ðˈæt strˈiˑtː. ",
+  "transcription_impl": "jˈu wˈɪl fˈaɪnd ðə mˈeɪlbˌɑks ɪn ðə pˈoʊst ˈɔfɪs wˈɪtʃ ˈɪz lˈoʊkˌeɪtəd fˈɔr blˈɑks frˈʌm ðə drˈʌɡstˌɔr ˈɑn ðˈæt strˈit. ",
+  "score_avg_expl": 4.583333333333333,
+  "score_count_expl": 12,
+  "score_avg_impl": 4.083333333333333,
+  "score_count_impl": 12,
+  "score_avg_gt": 4.75,
+  "score_count_gt": 24,
+  "diff": 0.5
+}
