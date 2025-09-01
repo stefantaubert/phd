@@ -1,0 +1,13 @@
+{
+  "file": "LJ014-0087",
+  "text": "A quantity of quicklime was thrown in with the body to destroy all identification.",
+  "transcription_expl": " ə kˑw˘ˈɑn˘t˘əti ˈʌ˘v kw˘ˈɪ˘kˑlˌaɪm wˈɑ˘z θrˈoʊˑn ɪˑn wˈɪ˘ðː ðə bːˈɑːdiˑ tːˈu dɪ˘strˑˈɔɪ ˈɔl aɪdˌɛntə˘f˘əkˑˈeɪʃˑəˑnˑ. ",
+  "transcription_impl": " ə kwˈɑntəti ˈʌv kwˈɪklˌaɪm wˈɑz θrˈoʊn ɪn wˈɪð ðə bˈɑdi tˈu dɪstrˈɔɪ ˈɔl aɪdˌɛntəfəkˈeɪʃən. ",
+  "score_avg_expl": 3.7083333333333335,
+  "score_count_expl": 24,
+  "score_avg_impl": 4.25,
+  "score_count_impl": 12,
+  "score_avg_gt": 4.333333333333333,
+  "score_count_gt": 12,
+  "diff": -0.5416666666666665
+}

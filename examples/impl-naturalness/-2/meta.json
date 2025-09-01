@@ -1,0 +1,13 @@
+{
+  "file": "LJ022-0039",
+  "text": "I speak, therefore, tonight, to and of the American people as a whole.",
+  "transcription_expl": "ˈaɪ sˑp˘ˈik, ðˈɛrfˌɔrˑ, tˑə˘nˈaɪtː, tˈuː əːnd ˈʌːvː ðə˘ əːmˈɛrəˑkən pˈipə˘lː ˈæz ə hˈoʊlː. ",
+  "transcription_impl": "ˈaɪ spˈik, ðˈɛrfˌɔr, tənˈaɪt, tˈu ənd ˈʌv ðə əmˈɛrəkən pˈipəl ˈæz ə hˈoʊl. ",
+  "score_avg_expl": 3.1666666666666665,
+  "score_count_expl": 12,
+  "score_avg_impl": 2.6666666666666665,
+  "score_count_impl": 12,
+  "score_avg_gt": 3.8333333333333335,
+  "score_count_gt": 12,
+  "diff": 0.5
+}

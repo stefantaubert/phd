@@ -1,0 +1,13 @@
+{
+  "file": "LJ013-0232",
+  "text": "The prisoner replied that he had left it in the mattress of which he had just been deprived.",
+  "transcription_expl": "ðə˘ pr˘ˈɪz˘ənər rˑɪpˑl˘ˈaɪˑd ðˈæ˘t hˈi hˈæ˘d lˈɛft ˈɪ˘t ɪn ðə˘ mˈætˑrəs ˈʌv wˈɪˑtʃ hˈi hˈædˑ dʒ˘ˈʌst bˈɪˑnː dɪpˑrˈaɪvːdː. ",
+  "transcription_impl": "ðə prˈɪzənər rɪplˈaɪd ðˈæt hˈi hˈæd lˈɛft ˈɪt ɪn ðə mˈætrəs ˈʌv wˈɪtʃ hˈi hˈæd dʒˈʌst bˈɪn dɪprˈaɪvd. ",
+  "score_avg_expl": 4.25,
+  "score_count_expl": 12,
+  "score_avg_impl": 4.083333333333333,
+  "score_count_impl": 12,
+  "score_avg_gt": 4.5,
+  "score_count_gt": 12,
+  "diff": 0.16666666666666696
+}

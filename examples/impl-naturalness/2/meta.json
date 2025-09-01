@@ -1,0 +1,13 @@
+{
+  "file": "LJ004-0203",
+  "text": "The new jail had been in a great measure constructed by the prisoners themselves.",
+  "transcription_expl": "ðə˘ nˑˈuː dʒːˈeɪˑlː hˈæ˘d bˈɪˑn ɪːn ə ɡrˈeɪt m˘ˈɛʒər kə˘ns˘trˈʌk˘t˘əd bˈaɪ˘ ðə pr˘ˈɪzə˘nərz ðɛ˘msˈɛˑlːvzː. ",
+  "transcription_impl": "ðə nˈu dʒˈeɪl hˈæd bˈɪn ɪn ə ɡrˈeɪt mˈɛʒər kənstrˈʌktəd bˈaɪ ðə prˈɪzənərz ðɛmsˈɛlvz. ",
+  "score_avg_expl": 3.8333333333333335,
+  "score_count_expl": 12,
+  "score_avg_impl": 4.166666666666667,
+  "score_count_impl": 12,
+  "score_avg_gt": 4.666666666666667,
+  "score_count_gt": 12,
+  "diff": -0.3333333333333335
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LJ004-0158",
+  "text": "All were in ill health; almost all were in rags; almost all were filthy in the extreme.",
+  "transcription_expl": "ˈɔlˑ wˈʌr ɪːn ˈɪːlː hˈɛ˘lˑθː; ˈɔ˘lmˌoʊs˘t ˈɔlː wˈʌr˘ ɪːnː rˈæːɡˑzː; ˈɔ˘lmˌoʊs˘t ˈɔ˘lː wˈʌr˘ fːˈɪ˘lθi ɪːn ð˘əː ɛk˘strˈiˑmː. ",
+  "transcription_impl": "ˈɔl wˈʌr ɪn ˈɪl hˈɛlθ; ˈɔlmˌoʊst ˈɔl wˈʌr ɪn rˈæɡz; ˈɔlmˌoʊst ˈɔl wˈʌr fˈɪlθi ɪn ðə ɛkstrˈim. ",
+  "score_avg_expl": 3.1666666666666665,
+  "score_count_expl": 12,
+  "score_avg_impl": 2.6363636363636362,
+  "score_count_impl": 11,
+  "score_avg_gt": 4.208333333333333,
+  "score_count_gt": 24,
+  "diff": 0.5303030303030303
+}

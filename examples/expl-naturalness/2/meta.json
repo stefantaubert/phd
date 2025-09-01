@@ -1,0 +1,13 @@
+{
+  "file": "LJ008-0132",
+  "text": "Over the handkerchief around his brows he placed a white cap, the new hat being on top of all.",
+  "transcription_expl": "ˈoʊvər˘ ðə hˑˈæŋ˘k˘ərtʃɪf˘ ərˈaʊnd hˈɪz bːrˈaʊːzˑ hˑˈi˘ pˑlˈeɪ˘st˘ ə wːˈaɪtˑ kˈæpː, ðə nˑˈuː hˈæːtˑ bˈi˘ɪŋ ˈɑn tˑˈɑp ˈʌ˘vˑ ˈɔˑlː. ",
+  "transcription_impl": "ˈoʊvər ðə hˈæŋkərtʃɪf ərˈaʊnd hˈɪz brˈaʊz hˈi plˈeɪst ə wˈaɪt kˈæp, ðə nˈu hˈæt bˈiɪŋ ˈɑn tˈɑp ˈʌv ˈɔl. ",
+  "score_avg_expl": 4.166666666666667,
+  "score_count_expl": 12,
+  "score_avg_impl": 3.5,
+  "score_count_impl": 12,
+  "score_avg_gt": 4.25,
+  "score_count_gt": 12,
+  "diff": 0.666666666666667
+}

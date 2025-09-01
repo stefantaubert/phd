@@ -1,0 +1,13 @@
+{
+  "file": "LJ021-0058",
+  "text": "Under these codes, in the industries covered, child labor has been eliminated.",
+  "transcription_expl": "ˈʌːndər ðˑˈiːz kˈoʊːdzː, ɪːnˑ ðə˘ ˈɪːndəstriz kˈʌːv˘ərˑdː, tʃ˘ˈaɪːld lˈeɪ˘bər hːˈæz bˑˈɪːnː ɪˑlˈɪm˘ənˌeɪtɪˑdː. ",
+  "transcription_impl": "ˈʌndər ðˈiz kˈoʊdz, ɪn ðə ˈɪndəstriz kˈʌvərd, tʃˈaɪld lˈeɪbər hˈæz bˈɪn ɪlˈɪmənˌeɪtɪd. ",
+  "score_avg_expl": 2.6666666666666665,
+  "score_count_expl": 12,
+  "score_avg_impl": 3.0,
+  "score_count_impl": 12,
+  "score_avg_gt": 2.272727272727273,
+  "score_count_gt": 11,
+  "diff": -0.3333333333333335
+}

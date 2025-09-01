@@ -1,0 +1,13 @@
+{
+  "file": "LJ034-0014",
+  "text": "These two small cartons had been moved from a stack about three aisles away.",
+  "transcription_expl": "ðːˈiˑz tˈuˑ smˈɔl˘ kˑˈɑrˑt˘ənz hˈæd b˘ˈɪ˘nˑ mˈuˑvd f˘r˘ˈʌm˘ ə sˑtˈæˑkˑ əˑbˈaʊ˘t θ˘rˈiˑ ˈaɪˑlˑz əwˑˈeɪː. ",
+  "transcription_impl": "ðˈiz tˈu smˈɔl kˈɑrtənz hˈæd bˈɪn mˈuvd frˈʌm ə stˈæk əbˈaʊt θrˈi ˈaɪlz əwˈeɪ. ",
+  "score_avg_expl": 2.9166666666666665,
+  "score_count_expl": 12,
+  "score_avg_impl": 2.727272727272727,
+  "score_count_impl": 11,
+  "score_avg_gt": 3.75,
+  "score_count_gt": 12,
+  "diff": 0.18939393939393945
+}

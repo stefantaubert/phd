@@ -1,0 +1,13 @@
+{
+  "file": "LJ032-0166",
+  "text": "Judgments as to probability will depend on the number and types of matches.",
+  "transcription_expl": "dʒ˘ˈʌˑdʒməˑnt˘s˘ ˈæz˘ tˈu pr˘ˌɑ˘bəbˈɪlətˌi wˈɪ˘l˘ dɪ˘pˈɛˑnd ˈɑn ð˘ə nˑˈʌmbər əˑn˘d tˈaɪ˘ps˘ ˈʌv mˈæˑtʃəːzː. ",
+  "transcription_impl": "dʒˈʌdʒmənts ˈæz tˈu prˌɑbəbˈɪlətˌi wˈɪl dɪpˈɛnd ˈɑn ðə nˈʌmbər ənd tˈaɪps ˈʌv mˈætʃəz. ",
+  "score_avg_expl": 4.5,
+  "score_count_expl": 12,
+  "score_avg_impl": 3.8333333333333335,
+  "score_count_impl": 12,
+  "score_avg_gt": 4.333333333333333,
+  "score_count_gt": 12,
+  "diff": 0.6666666666666665
+}

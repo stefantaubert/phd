@@ -1,0 +1,13 @@
+{
+  "file": "LJ033-0063",
+  "text": "Soon afterward, at about three p m, police officers arrived and searched the house.",
+  "transcription_expl": "sˑˈuˑn˘ ˈæf˘t˘ərwˑərd, ˈæt˘ ə˘bˑˈaʊt θrˈi pˑˈi ˈɛˑmː, pə˘lˈis ˈɔfə˘sərz ərˈaɪˑvd ən˘d sˈʌrtʃˑt ðəː hˈaʊˑsː. ",
+  "transcription_impl": "sˈun ˈæftərwərd, ˈæt əbˈaʊt θrˈi pˈi ˈɛm, pəlˈis ˈɔfəsərz ərˈaɪvd ənd sˈʌrtʃt ðə hˈaʊs. ",
+  "score_avg_expl": 2.75,
+  "score_count_expl": 12,
+  "score_avg_impl": 3.25,
+  "score_count_impl": 12,
+  "score_avg_gt": 4.25,
+  "score_count_gt": 12,
+  "diff": -0.5
+}

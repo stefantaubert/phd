@@ -1,0 +1,13 @@
+{
+  "file": "LJ037-0072",
+  "text": "She has subsequently admitted the existence of the conversation and offered an explanation for her denial.",
+  "transcription_expl": " ʃˑˈi hˈæz s˘ˈʌbs˘əkwən˘t˘l˘i əˑdmˑˈɪt˘ɪˑd ðəˑ ɛ˘ɡˑz˘ˈɪˑs˘təns˘ ˈʌv ðə kˌɑn˘v˘ər˘sˈeɪʃəˑnˑ əːnd ˈɔfər˘d ˈæ˘n ˌɛks˘pl˘ənˈeɪʃə˘n fˈɔr hˈʌr dɪnˈaɪəˑlˑ. ",
+  "transcription_impl": " ʃˈi hˈæz sˈʌbsəkwəntli ədmˈɪtɪd ðə ɛɡzˈɪstəns ˈʌv ðə kˌɑnvərsˈeɪʃən ənd ˈɔfərd ˈæn ˌɛksplənˈeɪʃən fˈɔr hˈʌr dɪnˈaɪəl. ",
+  "score_avg_expl": 3.7083333333333335,
+  "score_count_expl": 24,
+  "score_avg_impl": 4.25,
+  "score_count_impl": 12,
+  "score_avg_gt": 4.5,
+  "score_count_gt": 12,
+  "diff": -0.5416666666666665
+}
