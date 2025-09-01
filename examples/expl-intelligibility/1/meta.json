@@ -1,0 +1,13 @@
+{
+  "file": "LJ017-0113",
+  "text": "After this the step-father insisted upon a post-mortem, which was conducted somewhat carelessly.",
+  "transcription_expl": "ˈæftər ðːˈɪːsː ð˘ə˘ stˈɛp˘-fˈɑˑðːər˘ ˌɪˑnsˈɪstəˑdˑ əpˑˈɑn ə˘ pˑoʊstmˈɔrtɛmː, wˈɪ˘tʃ wˈɑz kəndˈʌˑk˘t˘əd sˈʌmwˈʌt kˈɛrləsːli. ",
+  "transcription_impl": "ˈæftər ðˈɪs ðə stˈɛp-fˈɑðər ˌɪnsˈɪstəd əpˈɑn ə poʊstmˈɔrtɛm, wˈɪtʃ wˈɑz kəndˈʌktəd sˈʌmwˈʌt kˈɛrləsli. ",
+  "score_avg_expl": 4.833333333333333,
+  "score_count_expl": 12,
+  "score_avg_impl": 4.708333333333333,
+  "score_count_impl": 24,
+  "score_avg_gt": 4.666666666666667,
+  "score_count_gt": 12,
+  "diff": 0.125
+}

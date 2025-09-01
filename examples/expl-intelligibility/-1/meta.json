@@ -1,0 +1,13 @@
+{
+  "file": "LJ003-0121",
+  "text": "But all punishments might readily be commuted into a fine to be spent in gin for judge and jury.",
+  "transcription_expl": "b˘ˈʌtː ˈɔl pˈʌnɪ˘ʃm˘əˑn˘t˘s˘ mˈaɪ˘t rːˈɛ˘d˘əli bˈi˘ kə˘mjˈutɪdˑ ˈɪntu ə fːˈaɪːn tˈu bˈi˘ sˑp˘ˈɛnˑt ɪnː dʒˈɪːnː fˈɔr˘ dʒːˈʌːdʒː əˑnd˘ dʒˈʊrːiˑ. ",
+  "transcription_impl": "bˈʌt ˈɔl pˈʌnɪʃmənts mˈaɪt rˈɛdəli bˈi kəmjˈutɪd ˈɪntu ə fˈaɪn tˈu bˈi spˈɛnt ɪn dʒˈɪn fˈɔr dʒˈʌdʒ ənd dʒˈʊri. ",
+  "score_avg_expl": 3.75,
+  "score_count_expl": 12,
+  "score_avg_impl": 4.0,
+  "score_count_impl": 12,
+  "score_avg_gt": 3.9166666666666665,
+  "score_count_gt": 12,
+  "diff": -0.25
+}

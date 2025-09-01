@@ -1,0 +1,13 @@
+{
+  "file": "LJ038-0013",
+  "text": "The man wore a T-shirt beneath his outer shirt and he had no jacket.",
+  "transcription_expl": "ðə˘ mˈæˑnˑ wˈɔr ə tːˈisˌʌrˑt bɪ˘nˈiθ hˈɪˑz ˈaʊtər˘ ʃːˈʌrˑtː ən˘d hˈi hˈæd nˈoʊ dʒˈæˑkətː. ",
+  "transcription_impl": "ðə mˈæn wˈɔr ə tˈisˌʌrt bɪnˈiθ hˈɪz ˈaʊtər ʃˈʌrt ənd hˈi hˈæd nˈoʊ dʒˈækət. ",
+  "score_avg_expl": 4.25,
+  "score_count_expl": 12,
+  "score_avg_impl": 3.9166666666666665,
+  "score_count_impl": 12,
+  "score_avg_gt": 4.833333333333333,
+  "score_count_gt": 12,
+  "diff": 0.3333333333333335
+}

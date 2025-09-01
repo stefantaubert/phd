@@ -1,0 +1,13 @@
+{
+  "file": "LJ019-0078",
+  "text": "The amount of exercise varied from one or two hours daily to half the working day.",
+  "transcription_expl": "ðə˘ əmˈaʊ˘n˘t ˈʌ˘v ˈɛksər˘sˑˌaɪz vˈɛrˑid fr˘ˈʌ˘m wˈʌːn˘ ˈɔr˘ tːˈuˑ ˈaʊˑərz dˈeɪˑliˑ tˈu˘ hːˈæfˑ ð˘ə wˑˈʌrkɪŋ dˈeɪː. ",
+  "transcription_impl": "ðə əmˈaʊnt ˈʌv ˈɛksərsˌaɪz vˈɛrid frˈʌm wˈʌn ˈɔr tˈu ˈaʊərz dˈeɪli tˈu hˈæf ðə wˈʌrkɪŋ dˈeɪ. ",
+  "score_avg_expl": 4.833333333333333,
+  "score_count_expl": 12,
+  "score_avg_impl": 4.75,
+  "score_count_impl": 12,
+  "score_avg_gt": 4.666666666666667,
+  "score_count_gt": 12,
+  "diff": 0.08333333333333304
+}

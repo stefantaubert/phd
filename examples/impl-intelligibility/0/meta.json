@@ -1,0 +1,13 @@
+{
+  "file": "LJ038-0151",
+  "text": "He acknowledged the encounter with the police officer on the second floor.",
+  "transcription_expl": " hːˈi æ˘k˘nˈɑˑl˘ɪdʒˑdˑ ðə˘ ɪːnkˈaʊn˘tər wˈɪ˘ðː ðə pˑə˘lˈis ˈɔf˘əsər ˈɑn ðə sˈɛkə˘nd flˈɔrː. ",
+  "transcription_impl": " hˈi æknˈɑlɪdʒd ðə ɪnkˈaʊntər wˈɪð ðə pəlˈis ˈɔfəsər ˈɑn ðə sˈɛkənd flˈɔr. ",
+  "score_avg_expl": 4.583333333333333,
+  "score_count_expl": 12,
+  "score_avg_impl": 4.833333333333333,
+  "score_count_impl": 12,
+  "score_avg_gt": 4.583333333333333,
+  "score_count_gt": 12,
+  "diff": -0.25
+}

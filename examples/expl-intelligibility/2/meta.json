@@ -1,0 +1,13 @@
+{
+  "file": "LJ009-0060",
+  "text": "Now his doom is sealed irrevocably, and he has given himself up to despair.",
+  "transcription_expl": "nˈaʊː hˈɪz dˈuˑm ˈɪ˘z s˘ˈild ˌɪrˈɛv˘əkəbliˑ, ən˘dˑ hˈi˘ hˈæ˘z ɡˈɪv˘ən hɪˑm˘sˈɛ˘l˘f˘ ˈʌˑp tˈu dɪspˈɛrː. ",
+  "transcription_impl": "nˈaʊ hˈɪz dˈum ˈɪz sˈild ˌɪrˈɛvəkəbli, ənd hˈi hˈæz ɡˈɪvən hɪmsˈɛlf ˈʌp tˈu dɪspˈɛr. ",
+  "score_avg_expl": 4.833333333333333,
+  "score_count_expl": 12,
+  "score_avg_impl": 4.583333333333333,
+  "score_count_impl": 12,
+  "score_avg_gt": 4.458333333333333,
+  "score_count_gt": 24,
+  "diff": 0.25
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LJ018-0043",
+  "text": "It was really evidence of facts which could not be controverted or explained away.",
+  "transcription_expl": " ˈɪt w˘ˈɑ˘z rˑˈɪˑli ˈɛˑv˘əd˘əːns ˈʌ˘v fˈæːkt˘s wˈɪ˘tʃ k˘ˈʊ˘d nˈɑt bˈi˘ kːəːn˘tr˘ˈoʊ˘vˑərtɪˑdˑ ˈɔr ɪk˘splˈeɪnd əˑwːˈeɪː. ",
+  "transcription_impl": " ˈɪt wˈɑz rˈɪli ˈɛvədəns ˈʌv fˈækts wˈɪtʃ kˈʊd nˈɑt bˈi kəntrˈoʊvərtɪd ˈɔr ɪksplˈeɪnd əwˈeɪ. ",
+  "score_avg_expl": 4.166666666666667,
+  "score_count_expl": 12,
+  "score_avg_impl": 3.9166666666666665,
+  "score_count_impl": 12,
+  "score_avg_gt": 4.666666666666667,
+  "score_count_gt": 12,
+  "diff": 0.25000000000000044
+}

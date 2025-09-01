@@ -1,0 +1,13 @@
+{
+  "file": "LJ036-0213",
+  "text": "The man's general description was similar to the one broadcast over the police radio.",
+  "transcription_expl": "ð˘ə mˈæˑnz dʒˈɛnərəl˘ dɪsk˘rˈɪp˘ʃənˑ w˘ˈɑ˘z sˈɪmələr tˈu ðə wˈʌˑnˑ brˈɔdkˌæːst ˈoʊvər ðˑə pːə˘l˘ˈisˑ rˈeɪdiˌoʊː. ",
+  "transcription_impl": "ðə mˈænz dʒˈɛnərəl dɪskrˈɪpʃən wˈɑz sˈɪmələr tˈu ðə wˈʌn brˈɔdkˌæst ˈoʊvər ðə pəlˈis rˈeɪdiˌoʊ. ",
+  "score_avg_expl": 4.636363636363637,
+  "score_count_expl": 11,
+  "score_avg_impl": 4.833333333333333,
+  "score_count_impl": 12,
+  "score_avg_gt": 4.75,
+  "score_count_gt": 12,
+  "diff": -0.19696969696969635
+}
