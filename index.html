@@ -31,7 +31,31 @@
         <h1>Audio samples from my dissertation</h1>
         <p><b>Stefan Taubert</b> - Comparison of implicit and explicit phoneme duration learning and its impact on intelligibility and naturalness of neural speech synthesis
         </p>
-        <p><i>Recommendation: The best quality is obtained by listening with headphones.</i></p>
+        <p><i>Recommendation: You will get the best listening experience with headphones.</i></p>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-xs-12">
+        <p>All files were rated by at least two people from six demografic groups (age + gender):</p>
+        <ul>
+          <li>Age: 18-29 / 30-49 / 50+.</li>
+          <li>Gender: male / female.</li>
+        </ul>
+        <p>Training and synthesis (acoustic model) were done using <a href="https://github.com/stefantaubert/tacotron-cli" target="_blank">tacotron-cli</a>. <a href="https://github.com/stefantaubert/waveglow-cli" target="_blank">waveglow-cli</a> was used with a pre-trained model from Nvidia to synthesize waveforms from the mel-spectrograms (vocoder). Acoustic models are published on Zenodo:</p>
+        <ul>
+          <li><a href="https://zenodo.org/records/10107104" target="_blank">Explicit model</a>, trained on <a href="https://zenodo.org/records/7499098" target="_blank">these transcriptions.</a></li>
+        </ul>
+        
+        <ul>
+          <li><a href="https://zenodo.org/records/10200955" target="_blank">Implicit model</a> was trained on the same transcriptions but with duration markers removed.</a></li>
+        </ul>
+        <p><b>Results</b>: The explicit model achieved a significant improvement in naturalness (p=0.0014, n=33) compared to the implicit model while maintaining the same level of intelligibility.</p>
+        <ul>
+          <li>MOS naturalness (explicit vs. implicit): 3.55 ± 0.27 vs. 3.49 ± 0.28 (GT: 4.17 ± 0.23).</li>
+          <li>MOS intelligibility (explicit vs. implicit): 4.44 ± 0.24 vs. 4.43 ± 0.21 (GT: 4.63 ± 0.19).</li>
+        </ul>
+        <p>The explicit model can be used in the browser on HuggingFace via <a href="https://huggingface.co/spaces/stefantaubert/en-tts" target="_blank">stefantaubert/en-tts</a>.</p>
       </div>
     </div>
 
@@ -199,7 +223,7 @@
     
     <div class="row">
       <div class="col-xs-12">
-        <h3>Large gaps between naturalness ratings</h3>
+        <h3>Large gaps between explicit and implicit naturalness ratings</h3>
       </div>
     </div>
     
@@ -216,12 +240,18 @@
           <p>
             Yet he was silent when specifically pressed to confess that he had killed his wife and his brother.</p>
             <p>Naturalness: 4.33</p>
+          <audio controls>
+            <source src="examples/naturalness/0/gt.wav" type="audio/wav">
+          </audio>
         </div>
         <div class="col-sm-4 col-xs-12">
           <b>Explicit</b>
           <p>
             j˘ˈɛt hˈi˘ wˈɑ˘z sˈaɪləːn˘tˑ w˘ˈɛ˘n s˘p˘ə˘sˈɪfɪkli˘ pːrˈɛˑstː t˘ˈu kənfˑˈɛːsː ðˈæ˘t hˈi hˈæ˘d kˈɪld hˈɪz wˈaɪfˑ ən˘d hˈɪˑz bˑrˈʌˑðˑər.</p>
             <p>Naturalness: 4.17</p>
+          <audio controls>
+            <source src="examples/naturalness/0/expl.wav" type="audio/wav">
+          </audio>
         </div>
         
         <div class="col-sm-4 col-xs-12">
@@ -229,22 +259,6 @@
           <p>
             jˈɛt hˈi wˈɑz sˈaɪlənt wˈɛn spəsˈɪfɪkli prˈɛst tˈu kənfˈɛs ðˈæt hˈi hˈæd kˈɪld hˈɪz wˈaɪf ənd hˈɪz brˈʌðər.</p>
             <p>Naturalness: 3.08</p>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-sm-4 col-xs-12">
-          <audio controls>
-            <source src="examples/naturalness/0/gt.wav" type="audio/wav">
-          </audio>
-        </div>
-        
-        <div class="col-sm-4 col-xs-12">
-          <audio controls>
-            <source src="examples/naturalness/0/expl.wav" type="audio/wav">
-          </audio>
-        </div>
-        
-        <div class="col-sm-4 col-xs-12">
           <audio controls>
             <source src="examples/naturalness/0/impl.wav" type="audio/wav">
           </audio>
@@ -455,7 +469,7 @@
     
     <div class="row">
       <div class="col-xs-12">
-        <h3>Large gaps between intelligibility ratings</h3>
+        <h3>Large gaps between explicit and implicit intelligibility ratings</h3>
       </div>
     </div>
     
@@ -472,12 +486,18 @@
           <p>
             There he was seated on some sort of wooden bench and securely fastened.</p>
             <p>Intelligibility: 4.75</p>
+          <audio controls>
+            <source src="examples/intelligibility/0/gt.wav" type="audio/wav">
+          </audio>
         </div>
         <div class="col-sm-4 col-xs-12">
           <b>Explicit</b>
           <p>
             ðːˈɛrː hˑˈi˘ wˈɑ˘z˘ sˈitɪd ˈɑn sˈʌm sˈɔrt˘ ˈʌvː wˑˈʊdənˑ bˑˈɛˑntʃː ən˘d sɪ˘kjˈʊrli fːˈæˑsənːdː.</p>
             <p>Intelligibility: 4.83</p>
+          <audio controls>
+            <source src="examples/intelligibility/0/expl.wav" type="audio/wav">
+          </audio>
         </div>
         
         <div class="col-sm-4 col-xs-12">
@@ -485,22 +505,6 @@
           <p>
             ðˈɛr hˈi wˈɑz sˈitɪd ˈɑn sˈʌm sˈɔrt ˈʌv wˈʊdən bˈɛntʃ ənd sɪkjˈʊrli fˈæsənd.</p>
             <p>Intelligibility: 4.08</p>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-sm-4 col-xs-12">
-          <audio controls>
-            <source src="examples/intelligibility/0/gt.wav" type="audio/wav">
-          </audio>
-        </div>
-        
-        <div class="col-sm-4 col-xs-12">
-          <audio controls>
-            <source src="examples/intelligibility/0/expl.wav" type="audio/wav">
-          </audio>
-        </div>
-        
-        <div class="col-sm-4 col-xs-12">
           <audio controls>
             <source src="examples/intelligibility/0/impl.wav" type="audio/wav">
           </audio>
@@ -521,12 +525,18 @@
           <p>
             One great impediment to wide amelioration was that a vast number of small jails lay out of reach of the law.</p>
             <p>Intelligibility: 4.5</p>
+          <audio controls>
+            <source src="examples/intelligibility/-1/gt.wav" type="audio/wav">
+          </audio>
         </div>
         <div class="col-sm-4 col-xs-12">
           <b>Explicit</b>
           <p>
             wˈʌnː ɡrˈeɪt ˌɪmpˈɛdə˘məˑnt˘ tˈu wːˈaɪˑd əmˌiljərˈeɪʃə˘nː wˈɑ˘z ðˈæt˘ ə vˑˈæːs˘t nˈʌmbər ˈʌ˘v smˈɔl dʒˈeɪˑlz lˈeɪː ˈaʊ˘t ˈʌvː rˈitʃ ˈʌv ðə lˑˈɔː.</p>
             <p>Intelligibility: 3.92</p>
+          <audio controls>
+            <source src="examples/intelligibility/-1/expl.wav" type="audio/wav">
+          </audio>
         </div>
         
         <div class="col-sm-4 col-xs-12">
@@ -534,22 +544,6 @@
           <p>
             wˈʌn ɡrˈeɪt ˌɪmpˈɛdəmənt tˈu wˈaɪd əmˌiljərˈeɪʃən wˈɑz ðˈæt ə vˈæst nˈʌmbər ˈʌv smˈɔl dʒˈeɪlz lˈeɪ ˈaʊt ˈʌv rˈitʃ ˈʌv ðə lˈɔ.</p>
             <p>Intelligibility: 4.42</p>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-sm-4 col-xs-12">
-          <audio controls>
-            <source src="examples/intelligibility/-1/gt.wav" type="audio/wav">
-          </audio>
-        </div>
-        
-        <div class="col-sm-4 col-xs-12">
-          <audio controls>
-            <source src="examples/intelligibility/-1/expl.wav" type="audio/wav">
-          </audio>
-        </div>
-        
-        <div class="col-sm-4 col-xs-12">
           <audio controls>
             <source src="examples/intelligibility/-1/impl.wav" type="audio/wav">
           </audio>
