@@ -34,14 +34,101 @@
         This thesis investigates whether a neural TTS system should explicitly learn to control duration at the phoneme level during training, or whether learning implicitly from extensive speech data is sufficient. To this end, an existing TTS system was extended to learn explicitly by automatically annotating duration. The pipeline included phonemic transcription of the recordings, temporal alignment, and partitioning of phoneme durations into four quantiles.
         A subjective evaluation via Amazon Mechanical Turk showed that the explicit approach resulted in a highly significant improvement in naturalness while maintaining intelligibility. Objective measurements confirmed the qualitative superiority of the explicit approach. The method increases the controllability and naturalness of neural speech synthesis and opens up new directions for linguistic research.
         </p>
-        <h2>Audio samples</h2>
-        <p><i>Recommendation: You will get the best listening experience with headphones.</i></p>
       </div>
     </div>
 
+    
+    <div class="textblock">
+      <div class="row">
+        <div class="col-xs-12">
+          <h2>Use case: Word emphasis using extended phoneme durations</h2>
+          <p class="description"></p>
+          <p><i>Recommendation: You will get the best listening experience with headphones.</i></p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-4 col-xs-12">
+          <b>Default emphasis</b>
+          <p>
+            I didn't say she stole my money.</p>
+          <audio controls>
+            <source src="examples/emphasis/output.wav" type="audio/wav">
+          </audio>
+        </div>
+        <div class="col-sm-4 col-xs-12">
+          <b>Emphasis on "stole"</b>
+          <p>
+           I didn't say she <b>stole</b> my money.</p>
+          <audio controls>
+            <source src="examples/emphasis/output-stole.wav" type="audio/wav">
+          </audio>
+        </div>
+        
+        <div class="col-sm-4 col-xs-12">
+          <b>Emphasis on "money"</b>
+          <p>
+           I didn't say she stole my <b>money</b>.</p>
+          <audio controls>
+            <source src="examples/emphasis/output-money.wav" type="audio/wav">
+          </audio>
+        </div>
+        
+      </div>
+    </div>
+    
+    <div class="textblock">
+      <div class="row">
+        <div class="col-sm-4 col-xs-12">
+          <b>Default emphasis</b>
+          <p>
+            The box is full.</p>
+          <audio controls>
+            <source src="examples/emphasis/box.wav" type="audio/wav">
+          </audio>
+        </div>
+        <div class="col-sm-4 col-xs-12">
+          <b>Emphasis on "full" using a long [ʊː]</b>
+          <p>
+            ð˘ə bːˈɑˑks˘ ˈɪz <b>fˈʊːl</b></p>
+          <audio controls>
+            <source src="examples/emphasis/box-long.wav" type="audio/wav">
+          </audio>
+        </div>
+      </div>
+    </div>
+    
+    <div class="textblock">
+      <div class="row">
+        <div class="col-sm-4 col-xs-12">
+          <b>Emphasis on the first syllable</b>
+          <p>
+            She broke the world REcord in swimming.</p>
+          <audio controls>
+            <source src="examples/emphasis/record-REcord.wav" type="audio/wav">
+          </audio>
+        </div>
+        <div class="col-sm-4 col-xs-12">
+          <b>Emphasis on the second syllable</b>
+          <p>
+            They will reCORD the interview tomorrow.</p>
+          <audio controls>
+            <source src="examples/emphasis/record-reCORD.wav" type="audio/wav">
+          </audio>
+        </div>
+      </div>
+    </div>
+    
+    <div class="textblock">
+      <div class="row">
+        <div class="col-xs-12">
+          <h2>Results of the listening study</h2>
+          <p class="description"></p>
+        </div>
+      </div>
+    </div>  
     <div class="row">
       <div class="col-xs-12">
-        <p>All files were rated by at least twelve people, with at least two representatives from each demographic group (age + gender):</p>
+        <p>In total, 480 audio files were rated by at least twelve people, with at least two representatives from each demographic group (age + gender):</p>
         <ul>
           <li>Age: 18-29 / 30-49 / 50+.</li>
           <li>Gender: male / female.</li>
@@ -550,65 +637,6 @@
             <p>Intelligibility: 4.42</p>
           <audio controls>
             <source src="examples/intelligibility/-1/impl.wav" type="audio/wav">
-          </audio>
-        </div>
-      </div>
-    </div>
-    
-    
-    <div class="textblock">
-      <div class="row">
-        <div class="col-xs-12">
-          <h3>Examples of stressing different words</h3>
-          <p class="description"></p>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-sm-4 col-xs-12">
-          <b>Default</b>
-          <p>
-            I didn't say she stole my money.</p>
-          <audio controls>
-            <source src="examples/emphasis/output.wav" type="audio/wav">
-          </audio>
-        </div>
-        <div class="col-sm-4 col-xs-12">
-          <b>Emphasis on "stole"</b>
-          <p>
-           I didn't say she <b>stole</b> my money.</p>
-          <audio controls>
-            <source src="examples/emphasis/output-stole.wav" type="audio/wav">
-          </audio>
-        </div>
-        
-        <div class="col-sm-4 col-xs-12">
-          <b>Emphasis on "money"</b>
-          <p>
-           I didn't say she stole my <b>money</b>.</p>
-          <audio controls>
-            <source src="examples/emphasis/output-money.wav" type="audio/wav">
-          </audio>
-        </div>
-        
-      </div>
-    </div>
-    
-    <div class="textblock">
-      <div class="row">
-        <div class="col-sm-4 col-xs-12">
-          <b>Default</b>
-          <p>
-            The box is full.</p>
-          <audio controls>
-            <source src="examples/emphasis/box.wav" type="audio/wav">
-          </audio>
-        </div>
-        <div class="col-sm-4 col-xs-12">
-          <b>Full with a long [ʊː]</b>
-          <p>
-            ð˘ə bːˈɑˑks˘ ˈɪz <b>fˈʊːl</b></p>
-          <audio controls>
-            <source src="examples/emphasis/box-long.wav" type="audio/wav">
           </audio>
         </div>
       </div>
